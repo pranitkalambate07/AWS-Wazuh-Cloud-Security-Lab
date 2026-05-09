@@ -18,6 +18,7 @@ The goal of this project was to build a robust, end-to-end **Security Operations
 
 ---
 
+```mermaid
 graph TD
     %% Define Entities
     Attacker[("🥷 Threat Actor<br>(External IP)")]
