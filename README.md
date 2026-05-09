@@ -73,6 +73,7 @@ graph TD
     class Wazuh_Manager,Custom_Rules,Dashboard siem;
     class Attacker actor;
     class Analyst defender;
+```
 
 ## 🏗️ What I Built (Architecture & Workflow)
 This lab was systematically completed in three distinct phases:
