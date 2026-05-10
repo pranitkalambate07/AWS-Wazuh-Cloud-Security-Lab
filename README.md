@@ -1,4 +1,4 @@
-# 🛡️ Comprehensive Cloud Security SOC Lab: AWS & Wazuh SIEM Integration
+# 🛡️ End-to-End Cloud Security SOC Lab: AWS & Wazuh SIEM
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
